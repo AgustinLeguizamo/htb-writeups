@@ -4,7 +4,7 @@
 Platform    : HackTheBox
 OS          : Windows
 Difficulty  : Easy
-Category    : Active Directory / Credential Dumping
+Category    : Credential Dumping
 IP          : 10.129.96.157
 ```
 
