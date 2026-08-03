@@ -11,6 +11,7 @@ learned.
 | Machine | OS | Category | Difficulty |
 |---|---|---|---|
 | [Heist](./heist.md) | Windows | Credential Dumping | Easy |
+| [Tabby](./tabby.md) | Linux | Web / LFI / Container Escape | Easy |
 
 ---
 
