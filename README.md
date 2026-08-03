@@ -10,7 +10,7 @@ learned.
 
 | Machine | OS | Category | Difficulty |
 |---|---|---|---|
-| [Heist](./heist.md) | Windows | Active Directory / Credential Dumping | Easy |
+| [Heist](./heist.md) | Windows | Credential Dumping | Easy |
 
 ---
 
