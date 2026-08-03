@@ -13,6 +13,7 @@ learned.
 | [Heist](./heist.md) | Windows | Credential Dumping | Easy |
 | [Tabby](./tabby.md) | Linux | Web / LFI / Container Escape | Easy |
 | [Union](./union.md) | Linux | SQL Injection / Command Injection | Easy |
+| [Iclean](./iclean.md) | Linux | Web / XSS / SSTI | Medium |
 
 ---
 
