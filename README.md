@@ -16,6 +16,7 @@ learned.
 | [Iclean](./iclean.md) | Linux | Web / XSS / SSTI | Medium |
 | [Bastard](./bastard.md) | Windows | Web / Known CVE / Token Impersonation | Medium |
 | [Access](./access.md) | Windows | FTP / Credential Harvesting / RunAs Abuse | Easy |
+| [Instant](./instant.md) | Linux | API / Path Traversal / Android Reverse Engineering | Medium |
 
 ---
 
