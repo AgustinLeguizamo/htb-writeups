@@ -24,5 +24,4 @@ learned.
 
 ---
 
-*Write-ups are published only after machine retirement, per
-HackTheBox disclosure policy.*
+*Write-ups.*
