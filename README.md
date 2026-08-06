@@ -18,6 +18,7 @@ learned.
 | [Iclean](./iclean.md) | Linux | Web / XSS / SSTI | Medium |
 | [Bastard](./bastard.md) | Windows | Web / Known CVE / Token Impersonation | Medium |
 | [Instant](./instant.md) | Linux | API / Path Traversal / Android Reverse Engineering | Medium |
+| [Helix](./helix.md) | Linux | Known CVE (Apache NiFi RCE) / ICS - OPC UA Manipulation | Hard |
 
 
 ---
