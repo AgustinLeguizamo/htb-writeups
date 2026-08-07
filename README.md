@@ -10,10 +10,10 @@ learned.
 
 | Machine | OS | Category | Difficulty |
 |---|---|---|---|
-| [Heist](./heist.md) | Windows | Credential Dumping | Easy |
 | [Tabby](./tabby.md) | Linux | Web / LFI / Container Escape | Easy |
 | [Union](./union.md) | Linux | SQL Injection / Command Injection | Easy |
 | [Headless](./headless.md) | Linux | Web / XSS / Command Injection | Easy |
+| [Heist](./heist.md) | Windows | Credential Dumping | Easy |
 | [Access](./access.md) | Windows | FTP / Credential Harvesting / RunAs Abuse | Easy |
 | [Bastard](./bastard.md) | Windows | Web / Known CVE / Token Impersonation | Medium |
 | [Json](./json.md) | Windows | Insecure Deserialization (Json.NET) / API / Credential Decryption | Medium |
