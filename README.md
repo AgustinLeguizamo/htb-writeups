@@ -21,6 +21,7 @@ learned.
 | [Instant](./instant.md) | Linux | API / Path Traversal / Android Reverse Engineering | Medium |
 | [DevHub](./devhub.md) | Linux | MCP / Known CVE / SSH Pivoting / Hidden API Endpoints | Medium |
 | [Helix](./helix.md) | Linux | Known CVE (Apache NiFi RCE) / ICS - OPC UA Manipulation | Hard |
+| [Fortune](./Fortune.md) | OpenBSD | Web RCE / mTLS Client Certificate Abuse / NFS UID Spoofing / Credential Decryption | Insane |
 
 
 ---
