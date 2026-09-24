@@ -12,7 +12,7 @@ learned.
 |---|---|---|---|
 | [Active](./Active.md) | Windows | Active Directory / SMB / GPP / Kerberoasting | Easy |
 | [Forest](./forest.md) | Windows | Active Directory / AS-REP Roasting / DCSync / WriteDACL | Easy |
-| [TimeLapse](./timelapse.md) | Windows | Active Directory / SMB / LAPS | Easy |
+| [TimeLapse](./timelapse.md) | Windows | Active Directory / SMB / LAPS Abuse | Easy |
 | [Heist](./heist.md) | Windows | Credential Dumping | Easy |
 | [Tabby](./tabby.md) | Linux | Web / LFI / Container Escape | Easy |
 | [Union](./union.md) | Linux | SQL Injection / Command Injection | Easy |
